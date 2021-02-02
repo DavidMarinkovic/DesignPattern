@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern", "DesignPattern.csproj", "{AB40797D-B117-47CB-98C7-B275F7F7B5EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternUnitTest", "..\DesignPatternUnitTest\DesignPatternUnitTest.csproj", "{9641B176-B24F-4ECA-AA6B-DDA3D40701AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB40797D-B117-47CB-98C7-B275F7F7B5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB40797D-B117-47CB-98C7-B275F7F7B5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB40797D-B117-47CB-98C7-B275F7F7B5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB40797D-B117-47CB-98C7-B275F7F7B5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9641B176-B24F-4ECA-AA6B-DDA3D40701AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9641B176-B24F-4ECA-AA6B-DDA3D40701AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9641B176-B24F-4ECA-AA6B-DDA3D40701AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9641B176-B24F-4ECA-AA6B-DDA3D40701AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E1B63AE-1435-4217-94F6-130FF0FD386B}
+	EndGlobalSection
+EndGlobal
